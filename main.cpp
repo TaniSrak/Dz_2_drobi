@@ -200,7 +200,7 @@ int main() {
 	//std::cin >> x;
 	//x = x + y;
 
-	// std::cout << x.GetNumerator() << std::endl << x.GetDenominator();
+	// std::cout << x.GetNumerator() << std::endl << x.GetDenominator();вра
 	//std::cout << x;
 
 
